@@ -1,1 +1,1 @@
-git status
+echo "git status"
